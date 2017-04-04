@@ -2,4 +2,4 @@
 
 hlnull's的笔记
 
-点解wiki查看具体内容
+点击[wiki](https://github.com/hlnull/notebook/wiki)查看具体内容
