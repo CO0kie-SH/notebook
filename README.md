@@ -1,5 +1,9 @@
 # hlnull's的笔记
 
+这里会记录一些技术方面的笔记。
+
+欢迎指正，评论。
+
 ## 读书笔记
 ### [编程珠玑](https://github.com/hlnull/notebook/blob/master/%E7%BC%96%E7%A8%8B%E7%8F%A0%E7%8E%91%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0.md) (working)
 ### Unix编程艺术 (TODO)
