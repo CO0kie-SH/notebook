@@ -14,7 +14,7 @@
 ### [如何在windows上解决dll hell问题](https://github.com/hlnull/notebook/blob/master/%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3dll%20hell%E9%97%AE%E9%A2%98.md)
 ### [业务特征驱动架构设计 记录.md](https://github.com/hlnull/notebook/blob/master/%E4%B8%9A%E5%8A%A1%E7%89%B9%E5%BE%81%E9%A9%B1%E5%8A%A8%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%20%E8%AE%B0%E5%BD%95.md)
 
-### [https://github.com/hlnull/notebook/blob/master/What%20you%20should%20know%20about%20this.md](https://github.com/hlnull/notebook/blob/master/What%20you%20should%20know%20about%20this.md)
+### [Javascript: What you should know about this](https://github.com/hlnull/notebook/blob/master/What%20you%20should%20know%20about%20this.md)
 
 ## 计划与总结
 
