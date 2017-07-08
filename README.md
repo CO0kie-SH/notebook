@@ -19,3 +19,7 @@
 ## 计划与总结
 
 ### [练级攻略](https://github.com/hlnull/notebook/blob/master/%E7%BB%83%E7%BA%A7%E6%94%BB%E7%95%A5.md)
+
+## 公开课笔记
+
+### [cs231n note](https://github.com/hlnull/cs231n-2016/blob/master/Notes.md)
