@@ -1,6 +1,6 @@
 Scripts:
 
-a simple node server script:
+a simple node server script(from [Coursera](https://www.coursera.org/learn/server-side-development/supplement/ltdEP/exercise-instructions-node-and-the-http-module)):
 ```
 var http = require('http');
 var fs = require('fs');
